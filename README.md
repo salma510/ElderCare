@@ -71,24 +71,13 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés :
 - **Base de données** : SQL
 - **Outils** : Android Studio, Maven, Git
 
-## Contribution
 
-Les contributions sont les bienvenues ! Suivez ces étapes pour contribuer :
+   Video demo:
 
-1. Forkez le projet.
-2. Créez une branche pour votre fonctionnalité :
-   ```bash
-   git checkout -b feature/nom-de-la-fonctionnalite
-   ```
-3. Effectuez vos modifications et committez :
-   ```bash
-   git commit -m "Ajout de la fonctionnalité X"
-   ```
-4. Poussez les modifications sur votre branche :
-   ```bash
-   git push origin feature/nom-de-la-fonctionnalite
-   ```
-5. Créez une Pull Request sur le dépôt principal.
+https://github.com/user-attachments/assets/24703a87-63fc-4739-bfbc-c850af618491
+
+
+   
 
 
 
